@@ -1,0 +1,30 @@
+What works with a default windows drive
+
+Recognized-.
+8 direction HAT switch - OK
+X				as button 1
+square			as button 2
+circle			as button 3
+triangle		as button 4
+right paddle	as button 5
+left paddle		as button 6
+R2				as button 7
+L2				as button 8
+SELECT			as button 9
+START			as button 10
+R3				as button 11
+L3				as button 12
+steering		as X axis
+aceleration		as Y axis
+
+Not recognized:
+Gear -
+Gear +
+PS
+button +
+button -
+selector clockwise
+selector anticlockwise
+selector return
+button GT
+Force feedback

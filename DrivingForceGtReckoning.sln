@@ -5,6 +5,13 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "USB UMDF 2 Driver", "USB UMDF 2 Driver\USB UMDF 2 Driver.vcxproj", "{0846CA0C-3919-4DA4-90CB-4C3DA82829BC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A8FA0C3E-3C0E-4C4D-AC1B-DAAB0174F8E3}"
+	ProjectSection(SolutionItems) = preProject
+		Driving Force GT Game controller Properties Default driver .png = Driving Force GT Game controller Properties Default driver .png
+		Driving Force GT Game controller settings and Properties.png = Driving Force GT Game controller settings and Properties.png
+		Notes.txt = Notes.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
