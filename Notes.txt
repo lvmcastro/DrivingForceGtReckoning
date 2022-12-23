@@ -28,3 +28,7 @@ selector anticlockwise
 selector return
 button GT
 Force feedback
+
+
+Status:
+signtool Verify usbumdf2driver.cat is failing
